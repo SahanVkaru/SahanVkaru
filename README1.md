@@ -21,6 +21,15 @@ I am a passionate **Full Stack Developer** with experience in building scalable 
 
 ### 🚀 Featured Projects & Contributions
 
+| Project | My Role & Contribution | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Canteen Management App](https://github.com/lakipop/Canteen-app)**<br>*(Collaborative Project)* | **Backend Developer & Feature Implementation**<br>• Developed product and menu management system<br>• Implemented inventory and ingredients tracking<br>• Built daily menu scheduling functionality | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ✅ Completed |
+| **[Wishtone System](https://github.com/lakipop/Wishtone)**<br>*(Inventory Management)* | **Bug Fixes & Dashboard Enhancement**<br>• Fixed critical stock updating bugs<br>• Enhanced dashboard UI/UX<br>• Implemented descending order for collections | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ✅ Completed |
+| **[Rosewood Event System](https://github.com/lakipop/Rosewood-Event-System)**<br>*(Event Management Platform)* | **Core Developer**<br>• Contributed to event management features<br>• Collaborated on system architecture<br>• Implemented real-time event handling | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | 🔄 In Progress |
+| **[Library Management System](https://github.com/SahanVkaru/LMS)**<br>*(Academic Project)* | **Project Lead & Full Stack Developer**<br>• Designed relational database mapping<br>• Built complete CRUD operations<br>• Implemented version control workflow | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ✅ Completed |
+| **[Chat Application](https://github.com/SahanVkaru/Chat-Application)**<br>*(Real-time Messaging)* | **Full Stack Developer**<br>• Developed real-time chat functionality<br>• Implemented user authentication<br>• Built responsive UI | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ✅ Completed |
+
+---
 
 ### 🛠️ Languages & Tools
 

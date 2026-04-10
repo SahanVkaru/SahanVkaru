@@ -12,101 +12,146 @@
 
 <br/>
 
+<table width="100%" align="center">
+  <tr>
+    <td valign="top" width="65%">
+      <h3>👋 I'm a passionate developer!</h3>
+      I have a strong interest in backend infrastructure, system architecture, and modern web technologies.
+      <br/><br/>
+      <ul>
+        <li>🔭 I'm currently working on <b>Enterprise Applications & Management Systems</b></li>
+        <li>🌱 I'm currently learning <b>Advanced Backend Architecture, System Design & Cloud Technologies</b></li>
+        <li>👯 I'm looking to collaborate on <b>Open-Source Projects, Innovative Web Apps</b></li>
+        <li>💬 Ask me about <b>Java, TypeScript, React, Spring Boot, Node.js</b></li>
+        <li>⚡ Fun fact: <b>I thrive turning complex logic into seamless digital experiences</b></li>
+      </ul>
+    <br/>
+      <p><b>📫 Let's Connect:</b></p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:Sahan.rambuka@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+    <td valign="top" width="35%">
+   <div align="center">
+  <h4 align="center">🌐 Frontend</h4>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <br/>
+  
+  <h4 align="center">⚙️ Backend</h4>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <br/>
+  
+  <h4 align="center">🛠️ Tools & Platform</h4>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Stats
+
+<div align="center" width="100%">
+<br/>
+
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/SahanVkaru?theme=dark&cardType=level" height="195" alt="Awesome GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanVkaru&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  
+<br/> <br/>
+   [![Trophy](https://github-profile-trophy.vercel.app/?username=SahanVkaru&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+<br/>
+
 <div align="center">
-  <a href="mailto:Sahan.rambuka@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/SahanVkaru"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Update these links with your actual URLs -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SahanVkaru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SahanVkaru?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/SahanVkaru?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=social" alt="stars" />
+</div> 
+
+---
+
+## 🎯 My Professional Focus & Interests
+
+<div align="center">
+
+| 🏗️ **Backend Focus** | 💡 **Tech Innovation** | 🌐 **Web Architecture** | 🎯 **Personal Interests** |
+|:---:|:---:|:---:|:---:|
+| System Architecture | Real-time Applications | Scalable Platforms | Open Source Contributor 🌟 |
+| API Development | Event Management Systems | Clean Code Principles | Tech Blogging 📝 |
+| Database Design | Inventory Solutions | Server-Side Logic | Coffee Lover ☕ |
+| CI/CD Pipelines | Cloud Implementations | Performance Tuning | Collaborative Projects 🤝 |
+
+</div>
+
+---
+
+## 📈 GitHub Activity & Contributions
+
+<div align="center">
+  <img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=SahanVkaru&theme=tokyo-night&hide_border=false&border_radius=5&area=true&height=300&bg_color=0D1117&color=7dc4e4&line=7dc4e4&point=7dc4e4&title_color=7dc4e4" alt="Activity Graph"  />
+   
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahanVkaru&theme=tokyonight&border_radius=5&bg_color=0D1117&title_color=7dc4e4&text_color=ffffff&icon_color=7dc4e4" alt="Profile Summary" />
 </div>
 
 <br/>
 
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Full Stack Developer** with a strong focus on backend infrastructure, system architecture, and crafting efficient, scalable solutions for real-world problems. I thrive in collaborative environments and love turning complex logic into seamless digital experiences.
-
-- 🔭 **Currently building:** Enterprise Applications & Management Systems
-- 🌱 **Currently learning:** Advanced Backend Architecture, System Design & Cloud Technologies
-- 💻 **Tech Stack I love:** Java, TypeScript, React, Spring Boot, Node.js
-- 🎯 **My domain focus:** Inventory Management, Event Systems, Real-time Applications
-- 🤝 **Looking to collaborate on:** Open-Source Projects, Innovative Web Apps
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <strong>Frontend Development</strong><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Backend & Database</strong><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Tools & Platform</strong><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahanVkaru&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahanVkaru&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahanVkaru&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahanVkaru&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Productive Time" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanVkaru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanVkaru&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
+  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sahan.rambuka@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahanVkaru)
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanVkaru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanVkaru&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
-## 🚀 Collaboration
+## 🚀 Collaborative Endeavors
 
-I strongly believe in the power of teamwork and actively collaborate on innovative projects alongside talented developers:
+<div align="center">
+  
+*Actively contributing to innovative projects alongside talented developers:*<br/>
+**[@lakipop](https://github.com/lakipop)** | **[@DuvinduDinethminDevendra](https://github.com/DuvinduDinethminDevendra)**
 
-- **[@lakipop](https://github.com/lakipop)** - Co-developing sophisticated enterprise applications.
-- **[@DuvinduDinethminDevendra](https://github.com/DuvinduDinethminDevendra)** - Collaborating on comprehensive Canteen and Library Management Systems.
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  
+**"Turning complex ideas into scalable, efficient real-world applications!"** 🚀
+
 </div>

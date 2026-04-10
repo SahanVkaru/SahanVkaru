@@ -70,12 +70,12 @@
 <div align="center" width="100%">
 <br/>
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/SahanVkaru?theme=dark&cardType=level" height="195" alt="Awesome GitHub Stats" />
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/SahanVkaru?theme=light&cardType=level" height="195" alt="Awesome GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanVkaru&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanVkaru&theme=default&hide_border=false" alt="GitHub Streak" />
   
 <br/> <br/>
-   [![Trophy](https://github-profile-trophy.vercel.app/?username=SahanVkaru&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+   [![Trophy](https://github-profile-trophy.vercel.app/?username=SahanVkaru&theme=flat&no-bg=true&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <br/>
@@ -106,17 +106,17 @@
 ## 📈 GitHub Activity & Contributions
 
 <div align="center">
-  <img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=SahanVkaru&theme=tokyo-night&hide_border=false&border_radius=5&area=true&height=300&bg_color=0D1117&color=7dc4e4&line=7dc4e4&point=7dc4e4&title_color=7dc4e4" alt="Activity Graph"  />
+  <img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=SahanVkaru&theme=default&hide_border=false&border_radius=5&area=true&height=300" alt="Activity Graph"  />
    
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahanVkaru&theme=tokyonight&border_radius=5&bg_color=0D1117&title_color=7dc4e4&text_color=ffffff&icon_color=7dc4e4" alt="Profile Summary" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahanVkaru&theme=default&border_radius=5" alt="Profile Summary" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahanVkaru&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahanVkaru&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahanVkaru&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahanVkaru&theme=default&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahanVkaru&theme=default&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahanVkaru&theme=default&count_private=true&include_all_commits=true&border_radius=8" height="165" alt="Productive Time" />
 </div>
 
 ---

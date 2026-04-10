@@ -88,21 +88,6 @@
 
 ---
 
-## 🎯 My Professional Focus & Interests
-
-<div align="center">
-
-| 🏗️ **Backend Focus** | 💡 **Tech Innovation** | 🌐 **Web Architecture** | 🎯 **Personal Interests** |
-|:---:|:---:|:---:|:---:|
-| System Architecture | Real-time Applications | Scalable Platforms | Open Source Contributor 🌟 |
-| API Development | Event Management Systems | Clean Code Principles | Tech Blogging 📝 |
-| Database Design | Inventory Solutions | Server-Side Logic | Coffee Lover ☕ |
-| CI/CD Pipelines | Cloud Implementations | Performance Tuning | Collaborative Projects 🤝 |
-
-</div>
-
----
-
 ## 📈 GitHub Activity & Contributions
 
 <div align="center">

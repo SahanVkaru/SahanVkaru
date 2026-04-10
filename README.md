@@ -70,7 +70,7 @@
 <div align="center" width="100%">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SahanVkaru&theme=default&show_icons=true&hide_border=false&count_private=true" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=SahanVkaru&theme=default&show_icons=true&hide_border=false&count_private=true" height="195" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanVkaru&theme=default&hide_border=false" alt="GitHub Streak" />
   

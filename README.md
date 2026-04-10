@@ -70,12 +70,12 @@
 <div align="center" width="100%">
 <br/>
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/SahanVkaru?theme=light&cardType=level" height="195" alt="Awesome GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SahanVkaru&theme=default&show_icons=true&hide_border=false&count_private=true" height="195" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanVkaru&theme=default&hide_border=false" alt="GitHub Streak" />
   
 <br/> <br/>
-   [![Trophy](https://github-profile-trophy.vercel.app/?username=SahanVkaru&theme=flat&no-bg=true&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+   [![Trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=SahanVkaru&theme=flat&no-bg=true&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <br/>
